@@ -2,11 +2,12 @@
   "name": "nodejs-restapi-poc",
   "version": "1.0.0",
   "description": "A NodeJS REST API poc",
-  
+  "start":"main.js",
   "scripts": {
     "test": "jest",
     "start": " app.js",
     "start-dev": " app.js"
+    
   },
   "author": "Jonathan Spruance",
   "license": "ISC",
